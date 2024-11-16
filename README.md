@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+## Name:Kathiresan K
+## Reg no:212223110021
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
